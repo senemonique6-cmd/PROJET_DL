@@ -50,6 +50,4 @@ MLP baseline, CNN A (3 blocs sans BN), CNN B (3 blocs avec BN), CNN C (4 blocs a
 Voir la section « Limites et risques » du rapport : effectifs réduits sur PlantDoc test, un seul run par configuration, photos multiples d'une même feuille dans PlantVillage, étiquettes PlantDoc non vérifiées par un expert, aucune validation sur le terrain.
 
 ## Auteurs
-
-À compléter (noms du groupe).
 Monique SENE
